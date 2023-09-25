@@ -14,3 +14,5 @@ De esta manera, al hacer alguna función si se choca volverá a ir atrás y har�
 
 Al final he acabado añadiendo separando los estados atras y giro ya que prefiero que esto lo haga por partes.
 Queda así de momento: ESTADOS: espiral (si se choca)-> atras -> giro -> hacia delante (que puede ir atras si se choca o espiral de nuevo si termina el temporizador aleatorio) 
+
+Como ultima implementación le he metido que tenga la posibilidad de pasar de espiral a hacia delante (es muy raro que ocurra)
