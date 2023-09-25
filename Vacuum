@@ -11,3 +11,6 @@ de esta manera podria entrar en algunos lugares que en la prueba de antes no con
 
 Tras ver que la gran parte del tiempo el robot iba bien, opte por cambiar los time.sleep ya que habia a veces que se chocabay no hacía nada por evitarlo.
 De esta manera, al hacer alguna función si se choca volverá a ir atrás y hará el giro.
+
+Al final he acabado añadiendo separando los estados atras y giro ya que prefiero que esto lo haga por partes.
+Queda así de momento: ESTADOS: espiral (si se choca)-> atras -> giro -> hacia delante (que puede ir atras si se choca o espiral de nuevo si termina el temporizador aleatorio) 
