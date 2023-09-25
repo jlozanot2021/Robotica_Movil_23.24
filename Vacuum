@@ -8,3 +8,6 @@ Aunque no limpia el 100% de las "habitaciones", si consige un gran trabajo ya qu
 
 Fui poniendo más y más variables aleatoras las cuales hacian mas impredecible lo que iba a pasar hasta que se me ocurrió poner el lado al que giraría tambien aleatorio según si el numero que saldría era par o impar.
 de esta manera podria entrar en algunos lugares que en la prueba de antes no conseguí llegar
+
+Tras ver que la gran parte del tiempo el robot iba bien, opte por cambiar los time.sleep ya que habia a veces que se chocabay no hacía nada por evitarlo.
+De esta manera, al hacer alguna función si se choca volverá a ir atrás y hará el giro.
