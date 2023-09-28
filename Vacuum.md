@@ -1,7 +1,8 @@
-Práctica 1
+# Práctica 1 Javier Lozano Torralbo
 
 
-Al comenzar el proyecto lo primero que hice fue probar los diferentes comandos que nos daban para enteder como funcionaban y que podía hacer con la aspiradora. 
+Al comenzar el proyecto lo primero que hice fue probar los diferentes comandos que nos daban para enteder como funcionaban y que podía hacer con la aspiradora.
+
 Al entender las funciones que me proporcionaban empece a probar como hacer la primera maquina de estados.
 La primera maquina de estados se basaba en tres estados: espiral, retroceder y girar y seguir recto. De espiral se pasaba a ir atrás y girar si se chocaba en algún momento.
 Despues esto pasaría a ir recto un tiempo aleatorio y de vuelta a la espiral.
