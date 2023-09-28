@@ -9,6 +9,7 @@ Después esto pasaría a ir recto un tiempo aleatorio y de vuelta a la espiral.
 Al principio comencé poniendo unos números determinados los cuales yo había pensado y tras probar unos cuantos opté por poner algunos valores de manera aleatoria.
 Esto daría más posibilidades de completar el objetivo ya que al repetirse a veces se quedaba medio pillado.
 Aunque no limpia el 100% de las "habitaciones", si consigue un gran trabajo ya que al realizar espirales y luego seguir recto de manera durante un tiempo aleatorio puede llegar a sitios que hagan que cubra bastante espacio.
+
 ![Screenshot from 2023-09-24 18-23-23](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/f3fa9c72-09f3-4e66-8352-3f79fbd9d4c1)
 
 
