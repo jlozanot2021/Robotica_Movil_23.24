@@ -64,7 +64,11 @@ def laser_detectec(laser):
 
 Este es el resultado final
 
+
+
+
 [Screencast from 09-28-2023 11:39:28 AM.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/16fb5428-ed0e-4cee-bae0-c92e5fb8d06b)
+
 
 [Screencast from 09-28-2023 11:40:38 AM.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/b769b5a3-c0cf-480f-ba5f-0adee6a31ace)
 
