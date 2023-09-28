@@ -39,7 +39,7 @@ Como última implementación, le he metido que tenga la posibilidad de pasar de 
         state = 3
         actual_time = time.time()
         random_time = random.uniform(1, 3)
-``
+```
 Al final del todo, tambien he metido el laser aun que he dejado las funciones anteriores del bumper, por si el laser no leyese bien algun valor y se chocase.
 ```python
 def laser_detectec(laser):
@@ -56,5 +56,9 @@ def laser_detectec(laser):
   return -1
 ```
 
+
 Este es el resultado final
-[Screencast from 09-28-2023 11:20:53 AM.zip](https://github.com/jlozanot2021/Robotica_Movil_23.24/files/12747869/Screencast.from.09-28-2023.11.20.53.AM.zip)
+[Screencast from 09-28-2023 11:39:28 AM.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/16fb5428-ed0e-4cee-bae0-c92e5fb8d06b)
+[Screencast from 09-28-2023 11:40:38 AM.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/b769b5a3-c0cf-480f-ba5f-0adee6a31ace)
+
+
