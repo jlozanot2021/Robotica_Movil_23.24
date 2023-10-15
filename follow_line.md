@@ -95,6 +95,8 @@ velocidades.append(lineal)
       else:
         lienal = 4
 ```
+
+Por último he añadido que si no detecta el centroide más lejano, es decir es una curva muy pronunciada, vaya a 0.5
 Como se puede observar por los números, me he decantado por la precisión y robustez en vez de la velocidad.
 
 Con todo esto, el coche, en el primer circuito, realiza una vuelta alrededor de los 120s
