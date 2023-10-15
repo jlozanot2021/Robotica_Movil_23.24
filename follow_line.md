@@ -100,3 +100,9 @@ Por último he añadido que si no detecta el centroide más lejano, es decir es 
 Como se puede observar por los números, me he decantado por la precisión y robustez en vez de la velocidad.
 
 Con todo esto, el coche, en el primer circuito, realiza una vuelta alrededor de los 120s
+
+
+[Screencast from 10-15-2023 04:07:56 PM.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/08f82012-1dcb-4a08-9d39-8d33335ae3ef)
+
+Video ejemplo de como se estabiliza y oscila (va bastante mal mi ordenador y este no es el mejor ejemplo)
+
