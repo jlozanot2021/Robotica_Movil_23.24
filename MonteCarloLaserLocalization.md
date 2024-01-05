@@ -53,6 +53,8 @@ En los siguientes vídeos se puede apreciar el inicio de las partículas y como 
 
 He elegido este vídeo ya que es el que más se aprecía que al inicio están mas dispersas y que aunque parece que no van a lograr juntarse con el robot, por la función propagate_particles y gracias a la aleatoriedad de np.random.normal hace que se acaben juntando.
 
+Parece que todas las partículas salen directamente al rededor del robot, pero esto no es así, lo que pasa es que solo se imprimen por pantalla una vez entrado en el bucle while en el que se sustituyen las que no valen.
+
 (Es el mismo vídeo dividido en trozos porque github no me deja subirlo junto, pese a esto, en localizarse tarda al rededor de 40s con 100 partículas)
 
 [Grabación de pantalla desde 05-01-24 11:56:47.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/6f0d5889-183d-4cce-a5d7-be8537cd812e)
