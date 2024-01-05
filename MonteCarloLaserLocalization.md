@@ -49,3 +49,15 @@ Finalmente, se repite el seleccionar las partículas mas parecidas y eliminar la
 
 
 
+En los siguientes vídeos se puede apreciar el inicio de las partículas y como se van juntando, como se aproximan al robot y al final, como se solapan con él.
+
+He elegido este vídeo ya que es el que más se aprecía que al inicio están mas dispersas y que aunque parece que no van a lograr juntarse con el robot, por la función propagate_particles y gracias a la aleatoriedad de np.random.normal hace que se acaben juntando.
+
+(Es el mismo vídeo dividido en trozos porque github no me deja subirlo junto, pese a esto, en localizarse tarda al rededor de 40s con 100 partículas)
+
+[Grabación de pantalla desde 05-01-24 11:56:47.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/6f0d5889-183d-4cce-a5d7-be8537cd812e)
+
+[Grabación de pantalla desde 05-01-24 11:57:27.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/0c027355-8fc6-4c2f-b993-e5c049316d8e)
+
+[Grabación de pantalla desde 05-01-24 11:57:45.webm](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/18a45470-7142-43fa-bfb0-5cb7964934ea)
+
