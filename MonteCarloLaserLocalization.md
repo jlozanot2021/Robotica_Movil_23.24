@@ -55,6 +55,8 @@ El siguiente trozo de código ha sido añadido en la función que obtiene el lá
 if x >= 0 and x <= 1012 and y >= 0 and y < 1012:
 ```
 
+### VIDEOS
+
 En los siguientes vídeos se puede apreciar el inicio de las partículas y como se van juntando, como se aproximan al robot y al final, como se solapan con él.
 
 He elegido este vídeo ya que es el que más se aprecía que al inicio están mas dispersas y que aunque parece que no van a lograr juntarse con el robot, por la función propagate_particles y gracias a la aleatoriedad de np.random.normal hace que se acaben juntando.
