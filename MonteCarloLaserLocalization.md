@@ -47,7 +47,13 @@ Antes he hablado de posiciones cercanas entre las partículas ya que no se puede
 Gracias a esto, las partículas se mueven al compas del robot pero formando una gran nube de poartículas que ayudan a que se pueda localizar el robot.
 Finalmente, se repite el seleccionar las partículas mas parecidas y eliminar las diferentes y la propagación hasta que el robot real se enceuntre dentro de la nube de partículas.
 
+El siguiente trozo de código ha sido añadido en la función que obtiene el láser ya que si sobrepasaba ese número daba un error. 
 
+![Captura desde 2023-12-26 12-20-37](https://github.com/jlozanot2021/Robotica_Movil_23.24/assets/102520615/b7df7b3b-3fb9-4c9c-96a9-3f6a4647e461)
+ 
+```python
+if x >= 0 and x <= 1012 and y >= 0 and y < 1012:
+```
 
 En los siguientes vídeos se puede apreciar el inicio de las partículas y como se van juntando, como se aproximan al robot y al final, como se solapan con él.
 
